@@ -1,2 +1,2 @@
 # cpp-references
-My references to code better
+https://en.cppreference.com/w/cpp/language/reference 

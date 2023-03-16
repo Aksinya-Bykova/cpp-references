@@ -1,2 +1,2 @@
 # cpp-references
-My references to code better. There are themes in branches names.
+https://habr.com/ru/post/495444/
